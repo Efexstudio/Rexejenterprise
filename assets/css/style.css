@@ -124,15 +124,15 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   background: #fff;
-  box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+  box-shadow: 0px 6px 9px 0px rgba(99, 96, 96, 0.06);
 }
 
 #header #logo h1 {
   font-size: 42px;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 #header #logo h1 a {
@@ -566,21 +566,21 @@ h6 {
 
 #hero .hero-content h2 {
   color: #080808;
-  margin-bottom: 15px;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 600;
+  padding: 20px;
   text-transform: uppercase;
 }
 
 #hero .hero-content h2 span {
   color: #1bb122;
-  margin-bottom: 10px;
+ 
 }
 
 #hero .hero-content p {
   color: #083607;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 200;
 
 }
 
@@ -597,8 +597,8 @@ h6 {
   font-weight: bold;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 32px;
-  border-radius: 20px;
+  padding: 10px 32px 10px 10px;
+  border-radius: 10px;
   transition: 0.5s;
   margin: 10px;
   color: #fff;
